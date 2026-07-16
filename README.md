@@ -1,107 +1,26 @@
-# 🧮 Python Calculator App
+<h1 align="center" id="title">Python Calculator</h1>
 
-A simple calculator application built using **Python and Tkinter GUI**.  
-This project performs basic arithmetic operations with a user-friendly desktop interface.
+<p align="center"><img src="https://socialify.git.ci/satyamdev39/python-calculator/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-## 📌 Features
+<p id="description">A desktop calculator application developed using Python Tkinter with a clean and user-friendly interface.</p>
 
-- ✅ Addition (+)
-- ✅ Subtraction (-)
-- ✅ Multiplication (*)
-- ✅ Division (/)
-- ✅ Clear button
-- ✅ User-friendly GUI
-- ✅ Error handling for invalid calculations
+<img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="shields"></p>
 
-## 🖥️ Screenshot
+<h2>🚀 Demo</h2>
 
-(Add your calculator screenshot here)
+[https://github.com/satyamdev39/python-calculator](https://github.com/satyamdev39/python-calculator)
 
-Example:
+<h2>Project Screenshots:</h2>
 
-```
-+----------------+
-|          25+5  |
-+----------------+
+<img src="https://github.com/satyamdev39/python-calculator/blob/main/image.JPG?raw=true" alt="project-screenshot" width="3333" height="400/">
 
-[7] [8] [9] [/]
-[4] [5] [6] [*]
-[1] [2] [3] [-]
-[0] [.] [+] [=]
+<img src="https://github.com/satyamdev39/python-calculator/blob/main/image2.JPG?raw=true" alt="project-screenshot" width="3333" height="400/">
 
-       [Clear]
-```
+  
+  
+<h2>🧐 Features</h2>
 
-## 🛠️ Technologies Used
+Here're some of the project's best features:
 
-- Python 3
-- Tkinter (Python GUI Library)
-
-## 📂 Project Structure
-
-```
-Python-Calculator/
-│
-├── calculator.py     # Main Python program
-├── README.md         # Project documentation
-└── requirements.txt  # Dependencies (optional)
-```
-
-## ⚙️ Installation & Setup
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Python-Calculator.git
-```
-
-### 2. Go inside the project folder
-
-```bash
-cd Python-Calculator
-```
-
-### 3. Run the application
-
-```bash
-python calculator.py
-```
-
-## 📖 How It Works
-
-- The GUI is created using Tkinter.
-- Buttons send values to the display screen.
-- The calculator evaluates expressions when the `=` button is pressed.
-- The clear button removes all input.
-
-## 🎯 Learning Objectives
-
-Through this project, I learned:
-
-- Python functions
-- GUI development with Tkinter
-- Event handling
-- Button commands
-- Error handling
-- Basic application structure
-
-## 🚀 Future Improvements
-
-- Add scientific calculator functions
-- Add calculation history
-- Add dark mode
-- Improve UI design
-- Create a web version using Flask
-
-## 👨‍💻 Author
-
-**Your Name**
-
-GitHub:
-```
-https://github.com/yourusername
-```
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
+*   Simple UI
+*   Install .py File And Run
